@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+.baslik{
+    font-size: 60px;
+    margin: 50px auto 50px;
+    border-radius: 5px;
+    width:400px;
+    height: auto;
+    text-align  : center;
+    font-family:'Montserrat', sans-serif;
+}
+
+.link{
+    font-size: 15px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.baslik1{
+    font-size: 40px;
+    width:200px;
+    height: auto;
+    margin-left: 100px;
+    margin-top: 200px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.icerik{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    width: 400px;
+    height: 700px;
+    float: left;
+    
+}
+
+.resim{
+    width: 400px;
+    height: 600px;
+    border-radius: 20px;
+}
+
+.film-baslik{
+    font-size: 20px;
+    width:400px;
+    height: auto;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 50px;
+}
