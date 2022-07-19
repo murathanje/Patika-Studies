@@ -1,0 +1,44 @@
+.search {
+    background-color: EEEEEE;
+    width: 90%;
+    height: 80px;
+    text-align: center;
+    margin: auto;
+}
+
+.header {
+    text-align: center;
+}
+
+.box1 {
+    background-color: 7EE5DA;
+    width: 35%;
+    height: 90px;
+    margin: 3px 3px 0px 0px;
+    float: left;
+    font-size: 16px;
+}
+
+.box2 {
+    background-color: 70CCC2;
+    width: 20.3%;
+    height: 90px;
+    margin: 3px 3px 0px 0px;
+    float: left;
+    font-size: 13px;
+
+}
+
+.box3 {
+    background-color: 62B3AA;
+    width: 43.3%;
+    height: 90px;
+    margin: 3px 3px 0px 0px;
+    float: left;
+    font-size: 13px;
+}
+
+.footer {
+    text-align: center;
+    font-size: 13px;
+}
