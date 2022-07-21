@@ -1,0 +1,208 @@
+.container-small {
+    max-width: 960px;
+    max-height: 60px;
+}
+.logo {
+    display: block;
+    margin-left: 0px;
+    margin-right: 80px;
+}
+.navbar-collapse input {
+    display: flex;
+    border-radius: 8px;
+}
+input.empty {
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    background-color: #FAFAFA;
+}
+.input {
+    margin-right: 50px;
+    margin: 50px;
+}
+.small-profile-photo {
+    float: left;
+    width: 32px;
+    height: 32px;
+    border-radius: 100%;
+    background-color: #000000;
+    display: block;
+    margin-right: 5px;
+    cursor: pointer;
+    overflow: hidden;
+}
+.small-profile-photo img {
+    width: 100%;
+    height: 100%;
+}
+.story-img{
+    margin: 0px 10px;
+    width: auto;
+    height: auto;
+    background-color: transparent;
+    overflow: visible;
+}
+.story-img img {
+    max-width: 100%;
+}
+.user-name {
+    display: inline-block;
+    padding-top: 5px;
+    cursor: pointer;
+    padding-left: 10pxs;
+}
+.card-header {
+    width: 100%;
+    height: 56px;
+    margin-left: 5px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 8px 4px 8px 12px;
+}
+.dot {
+    display: block;
+    float: right;
+    text-align: center;
+    font-size: 24px;
+    line-height: 28px;
+    padding: 0 17px;
+    cursor: pointer;
+}
+.card-body{
+    padding: none;
+}
+.card-icons {
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.icons.align-right {
+    float: right;
+}
+
+.card-icons i {
+    font-size: 20px;
+    margin-left: 7px;
+}
+
+.list-group {
+    margin-top: 5px;
+    padding: 20px;
+}
+.list-group-item {
+    height: 45px;
+    padding: 2px;
+    border: none;
+    display: block;
+}
+.list-link {
+    display: block;
+    text-decoration: underline;
+    color: dimgray;
+    cursor: pointer;
+    
+} 
+.last-item {
+    color: dimgray ;
+    font-size: 10px;
+}
+.footer-text {
+    text-align: left;
+    color: dimgray;
+    display: inline-block;
+    padding-left: 10px;
+}
+.card-footer {
+    background-color: #fff;
+    border: none;
+    border-top: 1px solid #ccc;
+}
+.footer-post {
+    float: right;
+    display: inline-block;
+    width: 35px;
+    height: 18px;
+    margin: none;
+    color: 	dodgerblue;
+    opacity: 0.3;
+}
+.card {
+    margin: 20px;
+} 
+.left-one {
+    display: block;
+}
+.left-two {
+    display: block;
+} 
+.header-right {
+    display: inline-block;
+    text-align: center;
+    float: left;
+}
+.texts {
+    display: inline-block;
+    float: left;
+    width: calc(100% - 37px);
+}
+.texts-left {
+    display: inline-block;
+    width: calc(100% - 55px);
+    font: inherit;
+}
+.left-two {
+    color: dimgray;
+}
+.texts-right {
+    display: inline-block;
+    float: right;
+    width: 55px;
+    text-align: center;
+    padding: 12px 0px;
+    color: 	dodgerblue;
+}
+.middle-row {
+    display: block;
+}
+.middle-row-one {
+    display: inline-block;
+    padding-left: 20px;
+    color: dimgray;
+    font-style: inherit;
+}
+.middle-row-two {
+    display: inline-block;
+    float: right;
+    padding-right: 20px;
+}
+.follow-user {
+    display: inline-block;
+    padding-left: 20px; 
+    font-size: small;
+}
+.card-right {
+    border: none;
+}
+.first-card {
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+}
+.first-list {
+    padding: 0px;
+    margin: 0px;
+    display: inline-block
+}
+.story-text {
+    font-size: 10px;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    border-radius: 100%;
+}
+.story-name {
+    font-size: 12px;
+    color: #6a6a6a;
+}

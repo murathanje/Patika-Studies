@@ -1,0 +1,56 @@
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    display: block;
+    background-color: white;
+}
+
+.logo {
+    display: inline-block;
+    margin-left: 192px;
+}
+
+.input-wrapper {
+    display: inline-block;
+    padding-top: 5px;
+    text-align: center;
+    margin-left: 200px;
+    height: 36px;
+    width: 236px;
+    
+}
+
+.icons ul {
+    display: inline-block;
+}
+
+.icons li {
+    float: left;
+    display: inline;
+    list-style: none;
+}
+
+.icons {
+    display: inline-block;
+    float: right;
+}
+
+.navbar-menu {
+    background-color: #ffffff;
+    height: 54px;
+}
+
+.nav-item {
+    padding: 0 11px;
+}
+
+.nav-link {
+    padding: 0;
+}
+
+.container-smaller {
+    max-width: 100px;
+}
