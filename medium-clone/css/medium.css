@@ -1,0 +1,29 @@
+body{
+    font-family:'Montserrat', sans-serif;
+}
+
+
+
+.bg-yellow{
+    background-color: #FFC017;
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid #222222;
+}
+
+.fw-bold{
+    font-weight: bold;
+}
+
+.fs{
+    font-size:20px;
+}
+.ma-t{
+    margin-top: 40px;
+}
+
+
+.asside-buttons > li {
+    margin-bottom: 10px;
+}
